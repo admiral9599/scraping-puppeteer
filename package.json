@@ -1,0 +1,18 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.1.1",
+    "axios": "^1.7.3",
+    "ejs": "^3.1.10",
+    "fs": "^0.0.1-security",
+    "googleapis": "^144.0.0",
+    "puppeteer": "^23.2.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "twilio": "^5.2.2",
+    "uuid": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
